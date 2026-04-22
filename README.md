@@ -18,7 +18,7 @@ A curated list of high-quality open-source projects, tools, and resources built 
 
 ## API & Developer Workflows
 
-- [Voiden](https://github.com/VoidenHQ/voiden) – API IDE for testing and documenting APIs with Markdown-friendly workflows.
+- [Voiden](https://github.com/VoidenHQ/voiden) – Open-source API IDE with Markdown-first workflows for testing, documenting, and organizing API requests.
 - [Slidev](https://github.com/slidevjs/slidev) – Create developer presentations using Markdown.
 - [Marp](https://github.com/marp-team/marp) – Markdown presentation ecosystem for writing slide decks.
 - [MDX](https://github.com/mdx-js/mdx) – Combine Markdown with JSX for interactive documentation and content.
